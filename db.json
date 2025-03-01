@@ -8,7 +8,7 @@
       "attribute": "Fire",
       "attack": "1500",
       "defense": "",
-      "image": "@\src\assets\images\Kagari.jpg"
+      "image": "@\\src\\assets\\images\\Kagari.jpg"
     },
   ]
 }
