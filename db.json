@@ -7,20 +7,70 @@
       "rarity": "Ultimate Rare",
       "attribute": "Fire",
       "types": ["Machine/","Link/","Effect"],
+      "level":"1",
       "attack": "1500",
       "defense": "",
       "image": "..\\src\\assets\\images\\Kagari.jpg"
     },
     {
       "id": 124,
+      "name": "Sky Striker Ace - Raye",
+      "description": "(Quick Effect): You can Tribute this card; Special Summon 1 'Sky Striker Ace' monster from your Extra Deck to the Extra Monster Zone. While this card is in your GY, if a face-up 'Sky Striker Ace' Link Monster you control is destroyed by battle, or leaves the field because of an opponent's card effect: You can Special Summon this card. You can only use each effect of 'Sky Striker Ace - Raye' once per turn.",
+      "rarity": "Ulta Rare",
+      "attribute": "Dark",
+      "types": ["Warrior/","Effect"],
+      "level":"4",
+      "attack": "1500",
+      "defense": "1500",
+      "image": "..\\src\\assets\\images\\Raye.jpg"
+    },
+    {
+      "id": 125,
+      "name": "Sky Striker Mobilize - Engage!",
+      "description": "If you control no monsters in your Main Monster Zone: Add 1 'Sky Striker' card from your Deck to your hand, except 'Sky Striker Mobilize - Engage!', then, if you have 3 or more Spells in your GY, you can draw 1 card.",
+      "rarity": "Secret Rare",
+      "attribute": "",
+      "types": ["Spell/","Normal Spell"],
+      "level":"",
+      "attack": "",
+      "defense": "",
+      "image": "..\\src\\assets\\images\\Mobilize_Engage.jpg"
+    },
+    {
+      "id": 126,
       "name": "Des Koala",
       "description": "FLIP: Inflict 400 points of Direct Damage to your opponent's Life Points for each card in your opponent's hand",
       "rarity": "Rare",
       "attribute": "Dark",
       "types":["Beast/","Effect/","Flip"],
+      "level":"3",
       "attack": "1100",
       "defense": "1800",
       "image": "..\\src\\assets\\images\\Des_Koala.jpg"
+    },
+    {
+      "id": 127,
+      "name": "Big Koala",
+      "description": "A species of huge Des Koala. He's meek, but people are afraid of him because he's very powerful.",
+      "rarity": "Common",
+      "attribute": "Earth",
+      "types":["Beast/","Normal"],
+      "level":"7",
+      "attack": "2700",
+      "defense": "2000",
+      "image": "..\\src\\assets\\images\\Big_Koala.jpg"
+    },
+    {
+      "id": 128,
+      "name": "Master of Oz",
+      "description": "'Big Koala' + 'Des Kangaroo'",
+      "rarity": "Common",
+      "attribute": "Earth",
+      "types":["Beast/","Fusion"],
+      "level":"9",
+      "attack": "4200",
+      "defense": "3700",
+      "image": "..\\src\\assets\\images\\Master_of_Oz.jpg"
     }
   ]
 }
