@@ -6,6 +6,7 @@
       "description": "1 non-FIRE 'Sky Striker Ace' monster If this card is Special Summoned: You can target 1 'Sky Striker' Spell in your GY; add it to your hand. Gains 100 ATK for each Spell in your GY. You can only Special Summon 'Sky Striker Ace - Kagari(s)' once per turn.",
       "rarity": "Ultimate Rare",
       "attribute": "Fire",
+      "type": ["Machine","Link","Effect"],
       "attack": "1500",
       "defense": "",
       "image": "..\\src\\assets\\images\\Kagari.jpg"
@@ -16,6 +17,7 @@
       "description": "FLIP: Inflict 400 points of Direct Damage to your opponent''s Life Points for each card in your opponent''s hand",
       "rarity": "Rare",
       "attribute": "Dark",
+      "type":["Beast","Effect","Flip"],
       "attack": "1100",
       "defense": "1800",
       "image": "..\\src\\assets\\images\\Des_Koala.jpg"
