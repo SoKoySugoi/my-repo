@@ -14,7 +14,7 @@
     {
       "id": 124,
       "name": "Des Koala",
-      "description": "FLIP: Inflict 400 points of Direct Damage to your opponent''s Life Points for each card in your opponent''s hand",
+      "description": "FLIP: Inflict 400 points of Direct Damage to your opponent's Life Points for each card in your opponent's hand",
       "rarity": "Rare",
       "attribute": "Dark",
       "types":["Beast/","Effect/","Flip"],
