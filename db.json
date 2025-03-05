@@ -55,7 +55,7 @@
       "rarity": "Common",
       "attribute": "EARTH",
       "types": ["Beast/","Normal"],
-      "level 7",
+      "level": "7",
       "attack": "2700",
       "defense": "2000",
       "image": "..\\src\\assets\\images\\Big_Koala.jpg"
