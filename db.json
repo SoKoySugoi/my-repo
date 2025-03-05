@@ -96,7 +96,7 @@
       "defense": "700",
       "image": "..\\src\\assets\\images\\Penguin_Ninja.jpg"
     },
-     {
+    {
       "id": 131,
       "name": "Penguin Torpedo",
       "description": "This card can attack directly. When this card inflicts battle damage to your opponent: You can target 1 Level 6 or lower monster your opponent controls; take control of it until the End Phase, but its effects are negated, also it cannot declare an attack, while you control it. You can only use this effect of 'Penguin Torpedo' once per turn. At the end of the Damage Step, if this card attacked: Destroy this card.",
@@ -107,6 +107,6 @@
       "attack": "550",
       "defense": "300",
       "image": "..\\src\\assets\\images\\Penguin_Torpedo.jpg"
-    }
+    },
   ]
 }
