@@ -7,7 +7,7 @@
       "rarity": "Ultimate Rare",
       "attribute": "Fire",
       "types": ["Machine/","Link/","Effect"],
-      "level":"1",
+      "level": "1",
       "attack": "1500",
       "defense": "",
       "image": "..\\src\\assets\\images\\Kagari.jpg"
@@ -19,7 +19,7 @@
       "rarity": "Ulta Rare",
       "attribute": "DARK",
       "types": ["Warrior/","Effect"],
-      "level":"4",
+      "level": "4",
       "attack": "1500",
       "defense": "1500",
       "image": "..\\src\\assets\\images\\Raye.jpg"
@@ -43,7 +43,7 @@
       "rarity": "Rare",
       "attribute": "DARK",
       "types": ["Beast/","Effect/","Flip"],
-      "level":"3",
+      "level": "3",
       "attack": "1100",
       "defense": "1800",
       "image": "..\\src\\assets\\images\\Des_Koala.jpg"
@@ -55,7 +55,7 @@
       "rarity": "Common",
       "attribute": "EARTH",
       "types": ["Beast/","Normal"],
-      "level":"7",
+      "level 7",
       "attack": "2700",
       "defense": "2000",
       "image": "..\\src\\assets\\images\\Big_Koala.jpg"
@@ -67,7 +67,7 @@
       "rarity": "Common",
       "attribute": "EARTH",
       "types": ["Beast/","Fusion"],
-      "level":"9",
+      "level": "9",
       "attack": "4200",
       "defense": "3700",
       "image": "..\\src\\assets\\images\\Master_of_Oz.jpg"
@@ -79,7 +79,7 @@
       "rarity": "Super Rare",
       "attribute": "WATER",
       "types": ["Aqua/","Synchro/", "Effect"],
-      "level":"6",
+      "level": "6",
       "attack": "2400",
       "defense": "1200",
       "image": "..\\src\\assets\\images\\Penguin_Brave.jpg"
@@ -91,7 +91,7 @@
       "rarity": "Common",
       "attribute": "WATER",
       "types": ["Aqua/","Flip/", "Effect"],
-      "level":"3",
+      "level": "3",
       "attack": "1400",
       "defense": "700",
       "image": "..\\src\\assets\\images\\Penguin_Ninja.jpg"
@@ -103,7 +103,7 @@
       "rarity": "Ultra Rare",
       "attribute": "WATER",
       "types": ["Aqua/", "Effect"],
-      "level":"3",
+      "level": "3",
       "attack": "550",
       "defense": "300",
       "image": "..\\src\\assets\\images\\Penguin_Torpedo.jpg"
