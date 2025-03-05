@@ -107,6 +107,18 @@
       "attack": "550",
       "defense": "300",
       "image": "..\\src\\assets\\images\\Penguin_Torpedo.jpg"
+    },
+    {
+      "id": 131,
+      "name": "Por Of Greed",
+      "description": "Draw two cards from your deck.",
+      "rarity": "Common",
+      "attribute": "",
+      "types": ["Spell/", "Normal Spell"],
+      "level": "",
+      "attack": "",
+      "defense": "",
+      "image": "..\\src\\assets\\images\\Pot_Of_Greed.jpg"
     }
   ]
 }
