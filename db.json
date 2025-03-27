@@ -1,9 +1,9 @@
 {
   "cards": [
     {
-      "id": 123,
+      "cardId": 123,
       "name": "Sky Striker Ace - Kagari",
-      "description": "1 non-FIRE 'Sky Striker Ace' monster If this card is Special Summoned: You can target 1 'Sky Striker' Spell in your GY; add it to your hand. Gains 100 ATK for each Spell in your GY. You can only Special Summon 'Sky Striker Ace - Kagari(s)' once per turn.",
+      "description": "1 non-FIRE 'Sky Striker Ace' monster If this card is Special Summoned: You can target 1 'Sky Striker' Spell in your GY; add it to your hand. Gains 100 ATK for each Spell in your GY.",
       "rarity": "Ultimate Rare",
       "limit":"3",
       "attribute": "Fire",
@@ -11,12 +11,12 @@
       "level": "1",
       "attack": "1500",
       "defense": "",
-      "image": "..\\src\\assets\\images\\Kagari.jpg"
+      "image": "../src/assets/images/Kagari.jpg"
     },
     {
-      "id": 124,
+      "cardId": 124,
       "name": "Sky Striker Ace - Raye",
-      "description": "(Quick Effect): You can Tribute this card; Special Summon 1 'Sky Striker Ace' monster from your Extra Deck to the Extra Monster Zone. While this card is in your GY, if a face-up 'Sky Striker Ace' Link Monster you control is destroyed by battle, or leaves the field because of an opponent's card effect: You can Special Summon this card. You can only use each effect of 'Sky Striker Ace - Raye' once per turn.",
+      "description": "(Quick Effect): You can Tribute this card; Special Summon 1 'Sky Striker Ace' monster from your Extra Deck to the Extra Monster Zone. While this card is in your GY, if a face-up 'Sky Striker' monster you control is destroyed by battle or leaves the field because of an opponent's card effect: You can Special Summon this card.",
       "rarity": "Ulta Rare",
       "limit":"3",
       "attribute": "DARK",
@@ -24,10 +24,10 @@
       "level": "4",
       "attack": "1500",
       "defense": "1500",
-      "image": "..\\src\\assets\\images\\Raye.jpg"
+      "image": "../src/assets/images/Raye.jpg"
     },
     {
-      "id": 125,
+      "cardId": 125,
       "name": "Sky Striker Mobilize - Engage!",
       "description": "If you control no monsters in your Main Monster Zone: Add 1 'Sky Striker' card from your Deck to your hand, except 'Sky Striker Mobilize - Engage!', then, if you have 3 or more Spells in your GY, you can draw 1 card.",
       "rarity": "Secret Rare",
@@ -37,10 +37,10 @@
       "level":"",
       "attack": "",
       "defense": "",
-      "image": "..\\src\\assets\\images\\Mobilize_Engage.jpg"
+      "image": "../src/assets/images/Mobilize_Engage.jpg"
     },
     {
-      "id": 126,
+      "cardId": 126,
       "name": "Des Koala",
       "description": "FLIP: Inflict 400 points of Direct Damage to your opponent's Life Points for each card in your opponent's hand",
       "rarity": "Rare",
@@ -49,85 +49,9 @@
       "level": "3",
       "attack": "1100",
       "defense": "1800",
-      "image": "..\\src\\assets\\images\\Des_Koala.jpg"
+      "image": "../src/assets/images/Des_Koala.jpg"
     },
     {
-      "id": 127,
+      "cardId": 127,
       "name": "Big Koala",
-      "description": "A species of huge Des Koala. He's meek, but people are afraid of him because he's very powerful.",
-      "rarity": "Common",
-      "limit":"3",
-      "attribute": "EARTH",
-      "types": ["Beast/","Normal"],
-      "level": "7",
-      "attack": "2700",
-      "defense": "2000",
-      "image": "..\\src\\assets\\images\\Big_Koala.jpg"
-    },
-    {
-      "id": 128,
-      "name": "Master of Oz",
-      "description": "'Big Koala' + 'Des Kangaroo'",
-      "rarity": "Common",
-      "limit":"3",
-      "attribute": "EARTH",
-      "types": ["Beast/","Fusion"],
-      "level": "9",
-      "attack": "4200",
-      "defense": "3700",
-      "image": "..\\src\\assets\\images\\Master_of_Oz.jpg"
-    },
-    {
-      "id": 129,
-      "name": "Penguin Brave",
-      "description": "1 Tuner + 1+ non-Tuner monsters Your opponent cannot target face-down Defense Position monsters you control with card effects. You can only use each of the following effects of 'Penguin Brave' once per turn. If this card is Synchro Summoned: You can Special Summon 1 'Penguin' monster from your Deck in face-down Defense Position. When your opponent activates a monster effect (Quick Effect): You can flip 1 face-down Defense Position WATER monster you control face-up.",
-      "rarity": "Super Rare",
-      "attribute": "WATER",
-      "limit":"3",
-      "types": ["Aqua/","Synchro/", "Effect"],
-      "level": "6",
-      "attack": "2400",
-      "defense": "1200",
-      "image": "..\\src\\assets\\images\\Penguin_Brave.jpg"
-    },
-    {
-      "id": 130,
-      "name": "Penguin Ninja",
-      "description": "FLIP: You can target up to 2 Spells/Traps your opponent controls; return them to the hand. You can target 1 'Penguin' monster you control; change it to face-down Defense Position. You can only use this effect of 'Penguin Ninja' once per turn.",
-      "rarity": "Common",
-      "limit":"3",
-      "attribute": "WATER",
-      "types": ["Aqua/","Flip/", "Effect"],
-      "level": "3",
-      "attack": "1400",
-      "defense": "700",
-      "image": "..\\src\\assets\\images\\Penguin_Ninja.jpg"
-    },
-    {
-      "id": 131,
-      "name": "Penguin Torpedo",
-      "description": "This card can attack directly. When this card inflicts battle damage to your opponent: You can target 1 Level 6 or lower monster your opponent controls; take control of it until the End Phase, but its effects are negated, also it cannot declare an attack, while you control it. You can only use this effect of 'Penguin Torpedo' once per turn. At the end of the Damage Step, if this card attacked: Destroy this card.",
-      "rarity": "Ultra Rare",
-      "limit":"3",
-      "attribute": "WATER",
-      "types": ["Aqua/", "Effect"],
-      "level": "3",
-      "attack": "550",
-      "defense": "300",
-      "image": "..\\src\\assets\\images\\Penguin_Torpedo.jpg"
-    },
-    {
-      "id": 132,
-      "name": "Pot Of Greed",
-      "description": "Draw two cards from your deck.",
-      "rarity": "Common",
-      "limit":"1",
-      "attribute": "",
-      "types": ["Spell/", "Normal Spell"],
-      "level": "",
-      "attack": "",
-      "defense": "",
-      "image": "..\\src\\assets\\images\\Pot_Of_Greed.jpg"
-    }
-  ]
-}
+      "description": "A species of huge Des Koala. He's meek, but people are afraid of him because he's very powerful ▋
