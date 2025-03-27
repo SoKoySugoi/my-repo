@@ -1,7 +1,7 @@
 {
   "cards": [
     {
-      "cardId": 123,
+      "id": 123,
       "name": "Sky Striker Ace - Kagari",
       "description": "1 non-FIRE 'Sky Striker Ace' monster If this card is Special Summoned: You can target 1 'Sky Striker' Spell in your GY; add it to your hand. Gains 100 ATK for each Spell in your GY. You can only Special Summon 'Sky Striker Ace - Kagari(s)' once per turn.",
       "rarity": "Ultimate Rare",
@@ -14,7 +14,7 @@
       "image": "..\\src\\assets\\images\\Kagari.jpg"
     },
     {
-      "cardId": 124,
+      "id": 124,
       "name": "Sky Striker Ace - Raye",
       "description": "(Quick Effect): You can Tribute this card; Special Summon 1 'Sky Striker Ace' monster from your Extra Deck to the Extra Monster Zone. While this card is in your GY, if a face-up 'Sky Striker Ace' Link Monster you control is destroyed by battle, or leaves the field because of an opponent's card effect: You can Special Summon this card. You can only use each effect of 'Sky Striker Ace - Raye' once per turn.",
       "rarity": "Ulta Rare",
@@ -27,7 +27,7 @@
       "image": "..\\src\\assets\\images\\Raye.jpg"
     },
     {
-      "cardId": 125,
+      "id": 125,
       "name": "Sky Striker Mobilize - Engage!",
       "description": "If you control no monsters in your Main Monster Zone: Add 1 'Sky Striker' card from your Deck to your hand, except 'Sky Striker Mobilize - Engage!', then, if you have 3 or more Spells in your GY, you can draw 1 card.",
       "rarity": "Secret Rare",
@@ -40,7 +40,7 @@
       "image": "..\\src\\assets\\images\\Mobilize_Engage.jpg"
     },
     {
-      "cardId": 126,
+      "id": 126,
       "name": "Des Koala",
       "description": "FLIP: Inflict 400 points of Direct Damage to your opponent's Life Points for each card in your opponent's hand",
       "rarity": "Rare",
@@ -52,7 +52,7 @@
       "image": "..\\src\\assets\\images\\Des_Koala.jpg"
     },
     {
-      "cardId": 127,
+      "id": 127,
       "name": "Big Koala",
       "description": "A species of huge Des Koala. He's meek, but people are afraid of him because he's very powerful.",
       "rarity": "Common",
@@ -65,7 +65,7 @@
       "image": "..\\src\\assets\\images\\Big_Koala.jpg"
     },
     {
-      "cardId": 128,
+      "id": 128,
       "name": "Master of Oz",
       "description": "'Big Koala' + 'Des Kangaroo'",
       "rarity": "Common",
@@ -78,7 +78,7 @@
       "image": "..\\src\\assets\\images\\Master_of_Oz.jpg"
     },
     {
-      "cardId": 129,
+      "id": 129,
       "name": "Penguin Brave",
       "description": "1 Tuner + 1+ non-Tuner monsters Your opponent cannot target face-down Defense Position monsters you control with card effects. You can only use each of the following effects of 'Penguin Brave' once per turn. If this card is Synchro Summoned: You can Special Summon 1 'Penguin' monster from your Deck in face-down Defense Position. When your opponent activates a monster effect (Quick Effect): You can flip 1 face-down Defense Position WATER monster you control face-up.",
       "rarity": "Super Rare",
@@ -91,7 +91,7 @@
       "image": "..\\src\\assets\\images\\Penguin_Brave.jpg"
     },
     {
-      "cardId": 130,
+      "id": 130,
       "name": "Penguin Ninja",
       "description": "FLIP: You can target up to 2 Spells/Traps your opponent controls; return them to the hand. You can target 1 'Penguin' monster you control; change it to face-down Defense Position. You can only use this effect of 'Penguin Ninja' once per turn.",
       "rarity": "Common",
@@ -104,7 +104,7 @@
       "image": "..\\src\\assets\\images\\Penguin_Ninja.jpg"
     },
     {
-      "cardId": 131,
+      "id": 131,
       "name": "Penguin Torpedo",
       "description": "This card can attack directly. When this card inflicts battle damage to your opponent: You can target 1 Level 6 or lower monster your opponent controls; take control of it until the End Phase, but its effects are negated, also it cannot declare an attack, while you control it. You can only use this effect of 'Penguin Torpedo' once per turn. At the end of the Damage Step, if this card attacked: Destroy this card.",
       "rarity": "Ultra Rare",
@@ -117,7 +117,7 @@
       "image": "..\\src\\assets\\images\\Penguin_Torpedo.jpg"
     },
     {
-      "cardId": 132,
+      "id": 132,
       "name": "Pot Of Greed",
       "description": "Draw two cards from your deck.",
       "rarity": "Common",
